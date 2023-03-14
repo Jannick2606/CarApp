@@ -1,0 +1,16 @@
+.Container{
+    display: flex;
+    flex-direction: row;
+}
+.Container div{
+    width: 25%;
+}
+p{
+    text-align: center;
+}
+.even{
+    background-color: lightgray;
+}
+.odd{
+    background-color: gainsboro;
+}
